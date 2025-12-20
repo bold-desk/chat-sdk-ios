@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
                        DESC
   s.homepage         = "https://github.com/bold-desk/chat-sdk-ios/tree/development"
   s.author           = { "BoldDesk" => "support@bolddesk.com" }
-  s.license          = "MIT"
+  s.license          = { :type => "MIT", :file => "LICENSE" }
   s.platform         = :ios, "14.0"
   s.source           = { :git => "https://github.com/bold-desk/chat-sdk-ios.git", :tag => s.version}
   s.vendored_frameworks = "BoldDeskChatSDK.xcframework"
