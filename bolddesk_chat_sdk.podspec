@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "bolddesk_chat_sdk"
-  s.version          = "1.0.3"
+  s.version          = "1.0.4"
   s.summary          = "BoldDesk Chat SDK"
   s.description      = <<-DESC
                            The BoldDesk Chat iOS SDK empowers you to seamlessly integrate a fully functional chat widget into your iOS mobile applications. With this SDK, end-users can connect with support agents in real time—without needing to open a web browser.
