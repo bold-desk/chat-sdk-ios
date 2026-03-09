@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		WUqOG1nEYp16LuslRGy8eGSITtw=
+		q77B0lg44GC9v86o05kAT/w23LY=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YK5HVcU6j3gSR8h6W8pfJ3KZxno=
+		CVxs0c9mxEWnZqdmfJMcwK/txDk=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		WUqOG1nEYp16LuslRGy8eGSITtw=
+		q77B0lg44GC9v86o05kAT/w23LY=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		U6u55HpRzyju3xY6pQew/8+xvfo=
+		JkemBuaqvlFCK+BHW0/IPYxqv3g=
 		</data>
 		<key>ProfileIcon.png</key>
 		<data>
@@ -512,7 +512,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tiGcBcT/P89PU/2+Hyo8P+/pvLz7hiDEgnOd8VwWV4k=
+			OBw9J0mPG2Lb8myMuZK5mE1UR092FoFnL7vUmmcuz+A=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -540,14 +540,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9sXXbJ1Cmuc4ouNLaNvNfKLddiYyRifTGD/5VQ5zjwc=
+			wOf7Y3tHCCY94FEIkYSHqDWpeswHNhYnyQZ/zDj5kHU=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tiGcBcT/P89PU/2+Hyo8P+/pvLz7hiDEgnOd8VwWV4k=
+			OBw9J0mPG2Lb8myMuZK5mE1UR092FoFnL7vUmmcuz+A=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -575,7 +575,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dxzX3FWBtaJn2oJrX2wfTZT57uJ7it/FKhGZJcg1xsA=
+			utB1oM8to8VMGK1Te5eZL7C//N0OontFwzQ9Ea0F2uc=
 			</data>
 		</dict>
 		<key>ProfileIcon.png</key>
