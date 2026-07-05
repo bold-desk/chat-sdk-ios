@@ -1,11 +1,12 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.2.1 effective-5.10 (swiftlang-6.2.1.4.8 clang-1700.4.4.1)
+// swift-compiler-version: Apple Swift version 6.2.4 effective-5.10 (swiftlang-6.2.4.1.4 clang-1700.6.4.2)
 // swift-module-flags: -target x86_64-apple-ios14-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name BoldDeskChatSDK
-// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.4
 import AVFoundation
 import Combine
 import CoreText
 import Foundation
+import ImageIO
 import Network
 import Swift
 import SwiftUI
@@ -57,6 +58,7 @@ public struct BDChatSDK {
   public static func closeChat()
   public static func clearSession()
   public static func isFromChatSDK(userInfo: [Swift.AnyHashable : Any]) -> Swift.Bool
+  public static var onTicketCreatedEventCallBack: ((Swift.Int) -> Swift.Void)?
 }
 public enum SDKTheme {
   case light
@@ -86,7 +88,6 @@ public enum SDKTheme {
   }
   public typealias Body = @_opaqueReturnTypeOf("$s15BoldDeskChatSDK17DateTimeFieldViewV4bodyQrvp", 0) __
 }
-
 
 
 public enum ResourceManager {
