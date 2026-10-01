@@ -16,7 +16,7 @@ The **BoldDesk Chat iOS SDK** empowers you to seamlessly integrate a fully funct
 
 | Platform       | Minimum OS Version | Language   | Version                  |
 | -------------- | ------------------ | ---------- | ------------------------ |
-| **iOS**        | 14.0+              | Swift UI   | 5.3                      |
+| **iOS**        | 15.0+              | Swift UI   | 5.3                      |
 
 ---
 
