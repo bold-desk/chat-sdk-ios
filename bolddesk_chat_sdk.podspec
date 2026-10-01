@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/bold-desk/chat-sdk-ios.git", :tag => s.version}
   s.vendored_frameworks = "BoldDeskChatSDK.xcframework"
   s.swift_version    = "5.3"
-  s.dependency 'bolddesk_support_sdk', '~> 1.0.7'
+  s.dependency 'bolddesk_support_sdk', '~> 1.0.8'
 end
