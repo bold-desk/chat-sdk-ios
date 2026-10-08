@@ -27,7 +27,7 @@ let package = Package(
             name: "BoldDeskChatSDKTargets",
             dependencies: [
                 "BoldDeskChatSDKBinary",
-                .product(name: "BoldDeskSupportSDK", package: "BoldDeskSupportSDK")
+                .product(name: "BoldDeskSupportSDK", package: "support_sdk_ios")
             ],
             path: "Sources"
         )
