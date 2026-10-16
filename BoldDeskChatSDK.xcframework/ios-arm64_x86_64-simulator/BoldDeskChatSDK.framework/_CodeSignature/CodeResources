@@ -10,7 +10,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dO3cd41VE5QfDY1DJtrxHrmRoZU=
+		mYwv842yTt97S5on1dBqIN6E1GM=
 		</data>
 		<key>Inter-Bold.ttf</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		N+0SeORpEyAv9SwlOt59mUCyY5c=
+		y64Iguu2In5p/dn5NmxSBQ9s0yM=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TdLe2NjzXAbsEnp11UGI8UTC3o8=
+		NpIJoeANy0D2odfTu36iwxaf2QQ=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		N+0SeORpEyAv9SwlOt59mUCyY5c=
+		y64Iguu2In5p/dn5NmxSBQ9s0yM=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1WCoMulzsg41KqOKlhkqltJBLW8=
+		yrrnJjMY6qZHYeqXC1Fng/Yzajw=
 		</data>
 		<key>ProfileIcon.png</key>
 		<data>
@@ -522,7 +522,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qjA41ZowbxaOMCb04Y7LS3ol5+ZCZJvsOi6G7ubWFJI=
+			DrOo9NGV0LjnZiPpt26WWsOImaiqjctyOHTNnieQb2s=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -550,14 +550,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+M97GnFoP0nPbiU9AXInB3A2ORGZfaJ9G0JH/V6cjZk=
+			qR4lrZhT5mo3Bvseyjpx2xIqSoFv3RGVal+lznhLwrQ=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qjA41ZowbxaOMCb04Y7LS3ol5+ZCZJvsOi6G7ubWFJI=
+			DrOo9NGV0LjnZiPpt26WWsOImaiqjctyOHTNnieQb2s=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -585,7 +585,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b4w0aq0z7NMATr6//A8tzFo++j9gqvdnhyUb0GOSySw=
+			2KtnKF/+9c7SkqSHCZzxoGPpYEi9dUuZ7UNiUPBQTYE=
 			</data>
 		</dict>
 		<key>ProfileIcon.png</key>
