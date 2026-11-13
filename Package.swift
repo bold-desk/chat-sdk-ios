@@ -15,7 +15,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/bolddesk/support_sdk_ios.git",
-            from: "1.0.9"
+            from: "1.0.10"
         )
     ],
     targets: [
